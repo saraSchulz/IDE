@@ -157,7 +157,7 @@ header {
 	top: 0;
 }
 
-header div.logo img.logo{
+header div.logo img{
 	width: 80px;
 	animation: brilho 2s;
 	border-radius: 4vw;
